@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392661409836",
+    "project_id": "flyvan-c8db2",
+    "storage_bucket": "flyvan-c8db2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392661409836:android:8b034f5c39b13de0ebf189",
+        "android_client_info": {
+          "package_name": "com.flyvan.flyvanexpress"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX7FI3lxbOC6BbLZQlCqiZzP7PfvAZ49M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
