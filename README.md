@@ -3,6 +3,7 @@
 # FlyVan Logistics Management App
 
 I developed the FlyVan Logistics Management App specifically for Flyvan Express, addressing the operational needs of Supervisors and Admins while streamlining logistics and resource management. This app is a comprehensive solution for managing employee availability, route allocations, vehicles, and users, ensuring efficiency and accuracy in daily operations.
+Built using Flutter for a seamless cross-platform experience and Firebase as the backend with Firestore Database for real-time data storage and retrieval, this app ensures efficiency and reliability in daily operations.
 ## Key Features:
 
 1. [Supervisor-Focused Tools:]
@@ -39,3 +40,10 @@ I developed the FlyVan Logistics Management App specifically for Flyvan Express,
 The FlyVan Logistics Management App is a vital tool for Supervisors to efficiently handle operational tasks like availability tracking, route allocation, and vehicle management. By empowering Supervisors and Admins with easy-to-use tools, this app ensures smoother daily operations, better resource utilization, and improved overall efficiency for FlyVanExpress.
 This app provides a scalable and reliable solution that simplifies logistics management by integrating user roles and dynamic functionality.
 
+## Technology Stack:
+
+- [Flutter]: For a responsive, cross-platform user interface.
+- [Firebase Authentication]: Secure login and role-based access control.
+- [Firestore Database]: Real-time, scalable database for storing and managing data like employee availability, routes, vehicles, and users.
+
+By integrating robust Firebase services with Flutter's dynamic UI capabilities, this app delivers a reliable and user-friendly solution for FlyVanExpress, easily addressing their operational challenges.
